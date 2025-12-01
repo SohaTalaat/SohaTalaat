@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full-Stack Developer in training at the Information Technology Institute (ITI), focusing on PHP, Laravel, and modern web development technologies. My skills span frontend development (HTML, CSS, JavaScript, Angular) and backend development (PHP, Node.js, MySQL), supported by experience with Docker, Git, and Agile methodologies.<br><br>I enjoy building scalable, user-friendly applications that combine clean design with strong functionality. Currently, I am enhancing my expertise through real-world projects and continuous learning, aiming to contribute to innovative teams and deliver impactful software solutions.
+I am a Full-Stack Developer in training at the Information Technology Institute (ITI), focusing on PHP, Laravel, and modern web development technologies. My skills span frontend development (HTML, CSS, JavaScript, Angular) and backend development (PHP, MySQL), supported by experience with Docker, Git, and Agile methodologies.<br><br>I enjoy building scalable, user-friendly applications that combine clean design with strong functionality. Currently, I am enhancing my expertise through real-world projects and continuous learning, aiming to contribute to innovative teams and deliver impactful software solutions.
 
 
 ## 🌐 Socials:
